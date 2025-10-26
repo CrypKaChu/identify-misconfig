@@ -1,0 +1,4 @@
+shodan
+censys
+beautifulsoup4
+python-dotenv
