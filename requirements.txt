@@ -2,3 +2,6 @@ shodan
 censys
 beautifulsoup4
 python-dotenv
+inquirer
+tabulate
+rich
